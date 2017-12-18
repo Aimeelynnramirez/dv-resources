@@ -21,7 +21,11 @@ class App extends Component {
           <li> <a href="http://webserver.rilin.state.ri.us/Statutes/TITLE15/15-15/INDEX.HTM">Index of Sections</a></li>
                     <li> <a href="http://webserver.rilin.state.ri.us/Statutes/TITLE15/15-15/15-15-5.HTM">Domestic Abuse Prevention</a></li>
             <h2>Get Help:</h2>
-                        <h2><a href="http://www.sojournerri.org"> SojournerRI </a></h2>
+                        <h1><a href="http://www.sojournerri.org"> SojournerRI </a></h1>
+                                                <h1><a href="https://www.grants.gov/"> Grants.gov </a></h1>
+                                                <h1><a href="https://capitalgoodfund.org/en/"> CaptialGoodFund </a></h1>
+                                                <h1><a href="https://www.grants.gov/"> Grants.gov </a></h1>
+
 
         </p>
       </div>
