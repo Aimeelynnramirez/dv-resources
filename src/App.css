@@ -14,10 +14,7 @@
 }
 
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
-}
+
 
 .App-test {
   position: relative;
@@ -29,15 +26,15 @@
 
 .App-light {
   position: center;
-  flex-basis: 50%;
+  flex: 2;
   test-aligin: left;
-  height: 25%;
+  height: 100%;
   padding: 20px;
 }
 
 .App-header {
   background-color: #222;
-  height: 400px;
+  height: 300px;
   padding: 20px;
   color: white;
 }

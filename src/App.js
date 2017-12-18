@@ -11,18 +11,16 @@ class App extends Component {
         <header className="App-header">
           <Grid fluid>
         <Row>  <Col xsOffset={11} xs={1} />
-
-                    <img src="https://i.imgur.com/diJit8O.png" className="App-test" />
-                    
+         <img src="https://i.imgur.com/diJit8O.png" className="App-test" />
           <img src='https://i.pinimg.com/originals/cc/ea/3c/ccea3ceb5d1cc287c84f3c4627679a8e.jpg' className="App-light" />
 
-                  <Col xs={6} md={3}>
-                                    <h1 className="App-title">Welcome</h1>
-
+               <Col xs={6} md={3}>
+             <h1 className="App-title">Welcome</h1>
             This site is made by a survivor. 
-          </Col>
-          
+         
+  <Col xsOffset={10} xs={2} /> demo   </Col>
         </Row>
+        
       < /Grid>
                         </header>
                   
