@@ -3,6 +3,16 @@
 
 }
 
+Row {
+  text-align: center;
+
+}
+
+Col {
+  text-align: center;
+
+}
+
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 80px;
@@ -17,8 +27,8 @@
 }
 
 .App-light {
-  position: left;
-  flex: 2;
+  position: center;
+  flex-basis: 50%;
   test-aligin: left;
   height: 25%;
   padding: 20px;
