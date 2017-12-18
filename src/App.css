@@ -3,15 +3,16 @@
 
 }
 
-Row {
-  text-align: center;
-
+.col-xs-6 {
+  flex-basis: 20%;
 }
 
-Col {
+.App-quote {
   text-align: center;
-
+  height: 150px;
+  padding: 20px;
 }
+
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
