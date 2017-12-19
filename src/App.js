@@ -9,29 +9,25 @@ class App extends Component {
                     <h1 className="App-title">Welcome.</h1>
 
         <header className="App-header">
-        
+                 <img src="https://i.imgur.com/diJit8O.png" className="App-test" /> "Leslie Morgan Steiner was in "crazy love" -- that is, madly in love with a man who routinely abused her and threatened her life. Steiner tells the story of her relationship, correcting misconceptions many people hold about victims of domestic violence, and explaining how we can all help break the silence."
+
     
         <Grid fluid>
         <Row center="xs">
       <Col xs={6} />  
 <p>
-         <img src="https://i.imgur.com/diJit8O.png" className="App-test" /> "Leslie Morgan Steiner was in "crazy love" -- that is, madly in love with a man who routinely abused her and threatened her life. Steiner tells the story of her relationship, correcting misconceptions many people hold about victims of domestic violence, and explaining how we can all help break the silence."
    <Col xs={6} />  <p>Watch the video here:< a href="https://www.ted.com/talks/leslie_morgan_steiner_why_domestic_violence_victims_don_t_leave?utm_campaign=tedspread--b&utm_medium=referral&utm_source=tedcomshare">TEDtalks</a> Ideas Worth Spreading</p>
        </p>   </Row>
       </Grid>
      </header>
- 
-        <p className="App-intro">
-                <img src="https://i.imgur.com/qWHuk4y.jpg" className="App-quote"/>                                       
+                 <img src="https://i.imgur.com/qWHuk4y.jpg" className="App-quote"/>                                       
 
-        <Grid fluid>
-          
-     <Row start="xs">
+        <p className="App-intro"> <Grid fluid> <Row start="xs">
       <Col xs={6} />
 
                <p className="App-intro">
-   <p>Welcome to a Resource Site for DV survivors.</p>
-           <code>It is wrong but it's ok. You are ok, if not you will be.</code>
+   <p>Welcome to a Site for DV survivors.</p>
+           <code>It is wrong but it's ok. You are ok now.</code>
       <Col xs={6} />
 
          <p>Take a stand.</p>
