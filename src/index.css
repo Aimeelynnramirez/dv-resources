@@ -1,16 +1,17 @@
 body {
-  margin: 20px 20px;
-  padding: 40px 40px;
+  margin:15%;
+  padding: 0;
   font-family: sans-serif;
-  background-image: url("https://i.imgur.com/zpB3XLm.jpg");
-  color:#fff;
+  /*background-image: url("https://i.imgur.com/zpB3XLm.jpg");*/
+  background-color:#000;
+  color:#D2B4DE; 
   text-align:center;
   width:70%;
-  height:70%;
+  height:100%;
 }
 #player {
- position:left;
- margin: !important 20px;
+  max-width:300px;
+  height:100%;
  padding: 5px 5px;
  background-color: #222;
 }

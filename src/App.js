@@ -13,7 +13,7 @@ class App extends Component {
           <Grid fluid>
           <Row start="xs">
        
-                    <img src="https://i.imgur.com/diJit8O.png" className="App-test" /> 
+                    <img src="https://i.imgur.com/diJit8O.png" className="App-ribbon" /> 
                    <h4 className="App-info">  
                     "Leslie Morgan Steiner was in "crazy love" -- that is, madly in love with a man who routinely abused her and threatened her life. Steiner tells the story of her relationship, correcting misconceptions many people hold about victims of domestic violence, and explaining how we can all help break the silence."
 </h4>
@@ -69,9 +69,9 @@ class App extends Component {
   <Col xs={12}>
     <Row end="xs">
       <Col xs={6} />
-                                   <img src="https://i.imgur.com/qWHuk4y.jpg" className="App-quote"/>                                       
+                               <img src="https://i.imgur.com/qWHuk4y.jpg" className="App-circa"/>                                       
 <Col xs={6} />
-<h4>Circa @ 2017</h4>
+ <h6>Merry Christmas, Happy Hoildays, and a Happy New Year!<p> Circa @ 2017</p></h6>
     </Row>
   </Col>
 
