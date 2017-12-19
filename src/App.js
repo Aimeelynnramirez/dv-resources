@@ -11,15 +11,20 @@ class App extends Component {
 
         <header className="App-header">
           <Grid fluid>
-        <Row center="xs">
-                 <img src="https://i.imgur.com/diJit8O.png" className="App-test" /> "Leslie Morgan Steiner was in "crazy love" -- that is, madly in love with a man who routinely abused her and threatened her life. Steiner tells the story of her relationship, correcting misconceptions many people hold about victims of domestic violence, and explaining how we can all help break the silence."
-
+          <Row start="xs">
+       
+                    <img src="https://i.imgur.com/diJit8O.png" className="App-test" /> 
+                   <h4 className="App-info">  
+                    "Leslie Morgan Steiner was in "crazy love" -- that is, madly in love with a man who routinely abused her and threatened her life. Steiner tells the story of her relationship, correcting misconceptions many people hold about victims of domestic violence, and explaining how we can all help break the silence."
+</h4>
     
        
       <Col xs={6} />  
 <p>
    <Col xs={6} />  <p>Watch the video here:< a href="https://www.ted.com/talks/leslie_morgan_steiner_why_domestic_violence_victims_don_t_leave?utm_campaign=tedspread--b&utm_medium=referral&utm_source=tedcomshare">TEDtalks</a> Ideas Worth Spreading</p>
-      </p>  </Row>
+      </p>  
+      </Row>
+      
       </Grid>
      </header>
 
@@ -59,10 +64,21 @@ class App extends Component {
          <h5>This site is made by a survivor. </h5>
 <img src="https://i.imgur.com/SKjfaOX.png?1" className="App-profile"/> 
 
-      </p>
-                             <img src="https://i.imgur.com/qWHuk4y.jpg" className="App-quote"/>                                       
+     
 
-      </div>
+  <Col xs={12}>
+    <Row end="xs">
+      <Col xs={6} />
+                                   <img src="https://i.imgur.com/qWHuk4y.jpg" className="App-quote"/>                                       
+<Col xs={6} />
+<h4>Circa @ 2017</h4>
+    </Row>
+  </Col>
+
+ </p>
+            </div>
+ 
+
 
         );
     }
