@@ -22,7 +22,7 @@ class App extends Component {
      </header>
 
         <p className="App-intro">
-          <p>Welcome to a Resource Site for DV survivor.</p>
+          <p>Welcome to a Resource Site for DV survivors.</p>
           <code>It is wrong but it's ok. You are ok.</code>
           <p>Take a stand.</p>
                  <img src="https://i.imgur.com/UdErcrT.png" className="App-chat"/>
