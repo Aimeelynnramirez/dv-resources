@@ -15,6 +15,7 @@ class App extends Component {
  <Col xsOffset={11} xs={1} />
 
          <img src="https://i.imgur.com/diJit8O.png" className="App-test" />
+
                   <img src='https://i.pinimg.com/originals/cc/ea/3c/ccea3ceb5d1cc287c84f3c4627679a8e.jpg' className="App-light" />
 
         </Row>
