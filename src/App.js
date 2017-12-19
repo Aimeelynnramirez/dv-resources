@@ -6,23 +6,24 @@ class App extends Component {
     render() {
         return (
             <div className="App">
+           
                     <h1 className="App-title">Welcome.</h1>
 
         <header className="App-header">
+          <Grid fluid>
+        <Row center="xs">
                  <img src="https://i.imgur.com/diJit8O.png" className="App-test" /> "Leslie Morgan Steiner was in "crazy love" -- that is, madly in love with a man who routinely abused her and threatened her life. Steiner tells the story of her relationship, correcting misconceptions many people hold about victims of domestic violence, and explaining how we can all help break the silence."
 
     
-        <Grid fluid>
-        <Row center="xs">
+       
       <Col xs={6} />  
 <p>
    <Col xs={6} />  <p>Watch the video here:< a href="https://www.ted.com/talks/leslie_morgan_steiner_why_domestic_violence_victims_don_t_leave?utm_campaign=tedspread--b&utm_medium=referral&utm_source=tedcomshare">TEDtalks</a> Ideas Worth Spreading</p>
-       </p>   </Row>
+      </p>  </Row>
       </Grid>
      </header>
-                 <img src="https://i.imgur.com/qWHuk4y.jpg" className="App-quote"/>                                       
 
-        <p className="App-intro"> <Grid fluid> <Row start="xs">
+        <p className="App-intro"> <Grid fluid> <Row center="xs">
       <Col xs={6} />
 
                <p className="App-intro">
@@ -59,6 +60,8 @@ class App extends Component {
 <img src="https://i.imgur.com/SKjfaOX.png?1" className="App-profile"/> 
 
       </p>
+                             <img src="https://i.imgur.com/qWHuk4y.jpg" className="App-quote"/>                                       
+
       </div>
 
         );
