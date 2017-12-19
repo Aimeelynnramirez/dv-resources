@@ -32,15 +32,18 @@ class App extends Component {
           <h1><a href="http://webserver.ripn.state.ri.us/Statutes/TITLE15/INDEX.HTM">RI State Law</a></h1>
           <p> <a href="http://webserver.ripn.state.ri.us/Statutes/TITLE15/15-15/INDEX.HTM">Index of Sections</a></p>
                     <p> <a href="http://webserver.ripn.state.ri.us/Statutes/TITLE15/15-15/15-15-5.HTM">Domestic Abuse Prevention</a></p>
-            <h2>Get Help:</h2>
+          <h2>Get Help:</h2>
                         <p><a href="http://www.sojournerri.org"> SojournerRI </a></p>
-                        <p><a href="https://www.helprilaw.org"> Rhode Island Legal Services </a></p>
+                                                <p><a href="http://www.thehotline.org/"> National Hotline </a></p>
+                                                <p><a href="https://www.helprilaw.org"> Rhode Island Legal Services </a></p>
+                                                <p><a href="https://www.grants.gov/"> Grants.gov </a></p>                                               
+                                                <p><a href="http://www.211.org/"> 211 </a></p>
+                                                <p><a href="https://capitalgoodfund.org/en/"> CapitalGoodFund </a></p>
                                                 <p><a href="https://www.grants.gov/"> Grants.gov </a></p>
-                                                <p><a href="https://capitalgoodfund.org/en/"> CaptialGoodFund </a></p>
-                                                <p><a href="https://www.grants.gov/"> Grants.gov </a></p>
-                                                 <img src="https://i.imgur.com/qWHuk4y.jpg" className= "App-quote" />
+                                                <p><a href="http://www.dlt.ri.gov/aboutdlt.htm"> RI Department Labor and Training</a></p>
 
-       <h5>This site is made by a survivor. </h5>
+                                                 <img src="https://i.imgur.com/qWHuk4y.jpg" className= "App-quote" />
+         <h5>This site is made by a survivor. </h5>
 <img src="https://i.imgur.com/SKjfaOX.png" className="App-profile"/>        </p>
       </div>
 
