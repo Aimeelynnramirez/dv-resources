@@ -10,21 +10,22 @@ class App extends Component {
             <div className="App">
         <header className="App-header">
           <Grid fluid>
-        <Row>  <Col xsOffset={11} xs={1} />
-         <img src="https://i.imgur.com/diJit8O.png" className="App-test" />
-          <img src='https://i.pinimg.com/originals/cc/ea/3c/ccea3ceb5d1cc287c84f3c4627679a8e.jpg' className="App-light" />
           
-               <Col xsOffset={10}  xs={6} md={3} />
-             <h1 className="App-title">Welcome. 
-          </h1>
+        <Row> <h1 className="App-title">Welcome.</h1>
+ <Col xsOffset={11} xs={1} />
+
+         <img src="https://i.imgur.com/diJit8O.png" className="App-test" />
+         <img src='https://i.pinimg.com/originals/cc/ea/3c/ccea3ceb5d1cc287c84f3c4627679a8e.jpg' className="App-light" />
         </Row>
       </Grid>
      </header>
-                  
+
         <p className="App-intro">
           <p>Welcome to a Resource Site for DV surviors.</p>
-          <code>It is wrong but it's ok. You are ok.</code> 
-          <p>Take a stand.</p>         
+          <code>It is wrong but it's ok. You are ok.</code>
+          <p>Take a stand.</p>
+                 <img src="https://i.imgur.com/UdErcrT.png" className="App-chat"/>
+
 
           <h1><a href="http://webserver.rilin.state.ri.us/Statutes/TITLE15/INDEX.HTM">RI State Law</a></h1>
           <li> <a href="http://webserver.rilin.state.ri.us/Statutes/TITLE15/15-15/INDEX.HTM">Index of Sections</a></li>
@@ -37,7 +38,7 @@ class App extends Component {
                                                 <li><a href="https://www.grants.gov/"> Grants.gov </a></li>
                                                  <img src="https://i.imgur.com/qWHuk4y.jpg" className= "App-quote" />
 
-       <h5>This site is made by a survivor.</h5> <img src="https://i.imgur.com/SKjfaOX.png" className="App-profile"/>
+       <h5>This site is made by a survivor. <img src="https://i.imgur.com/SKjfaOX.png" className="App-profile"/></h5>
 
         </p>
       </div>
