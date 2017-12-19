@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 // import logo from './logo.svg';
 import { Grid, Row, Col } from 'react-flexbox-grid';
+
 import './App.css';
 
 class App extends Component {
@@ -12,8 +13,9 @@ class App extends Component {
         <Row>  <Col xsOffset={11} xs={1} />
          <img src="https://i.imgur.com/diJit8O.png" className="App-test" />
           <img src='https://i.pinimg.com/originals/cc/ea/3c/ccea3ceb5d1cc287c84f3c4627679a8e.jpg' className="App-light" />
-               <Col  xsOffset={10}   xs={6} md={3} />
-             <h1 className="App-title">Welcome.
+          
+               <Col xsOffset={10}  xs={6} md={3} />
+             <h1 className="App-title">Welcome. 
           </h1>
         </Row>
       </Grid>
@@ -35,7 +37,8 @@ class App extends Component {
                                                 <li><a href="https://www.grants.gov/"> Grants.gov </a></li>
                                                  <img src="https://i.imgur.com/qWHuk4y.jpg" className= "App-quote" />
 
-       <h5>This site is made by a survivor.</h5>
+       <h5>This site is made by a survivor.</h5> <img src="https://i.imgur.com/SKjfaOX.png" className="App-profile"/>
+
         </p>
       </div>
 
