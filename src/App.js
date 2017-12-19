@@ -38,9 +38,8 @@ class App extends Component {
                                                 <li><a href="https://www.grants.gov/"> Grants.gov </a></li>
                                                  <img src="https://i.imgur.com/qWHuk4y.jpg" className= "App-quote" />
 
-       <h5>This site is made by a survivor. <img src="https://i.imgur.com/SKjfaOX.png" className="App-profile"/></h5>
-
-        </p>
+       <h5>This site is made by a survivor. </h5>
+<img src="https://i.imgur.com/SKjfaOX.png" className="App-profile"/>        </p>
       </div>
 
         );
